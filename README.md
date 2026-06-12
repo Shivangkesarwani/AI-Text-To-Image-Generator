@@ -1,16 +1,51 @@
-# AI Text-To-Image Generator
+AI Text-To-Image Generator
 
-Generative AI Text-to-Image Generator using Python, Streamlit and Hugging Face.
+A Generative AI Text-to-Image web application built using Streamlit and Hugging Face Inference API.
 
-## Features
-- Text prompt input
-- AI image generation
-- Streamlit UI
-- Hugging Face API integration
+Features
 
-## Tech Stack
+- Generate images from text prompts
+- Simple and interactive Streamlit interface
+- Hugging Face model integration
+- Fast image generation
+- Cloud deployment using Hugging Face Spaces
+
+Tech Stack
+
 - Python
 - Streamlit
-- Requests
+- Hugging Face Hub
+- FLUX.1-schnell
 - Pillow
-- Hugging Face
+
+Installation
+
+pip install -r requirements.txt
+streamlit run app.py
+
+Project Structure
+
+AI-Text-To-Image-Generator/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+
+Usage
+
+1. Enter a text prompt.
+2. Click Generate Image.
+3. Wait for the AI model to generate the image.
+4. View the generated result.
+
+Future Improvements
+
+- Image download option
+- Multiple model support
+- Image history
+- Prompt templates
+- Enhanced UI/UX
+
+Author
+
+Shivang Kesarwani
