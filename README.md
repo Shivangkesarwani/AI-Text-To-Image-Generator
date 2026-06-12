@@ -17,18 +17,22 @@ Tech Stack
 - Hugging Face Hub
 - Pillow
 
-Installation
+## Installation
 
+```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-Project Structure
+## Project Structure
 
+```text
 AI-Text-To-Image-Generator/
 │
 ├── app.py
 ├── requirements.txt
-├── README.md
+└── README.md
+```
 
 Usage
 
