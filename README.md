@@ -15,7 +15,6 @@ Tech Stack
 - Python
 - Streamlit
 - Hugging Face Hub
-- FLUX.1-schnell
 - Pillow
 
 Installation
